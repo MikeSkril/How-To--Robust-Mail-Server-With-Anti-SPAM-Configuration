@@ -25,3 +25,5 @@ You're invited to follow the links in this tutorial to learn more about the soft
 
 * A VPS running Ubuntu 12.04 or 14.04 (setup will be similar on any Debian based distribution). ([Get a VPS here](https://www.digitalocean.com/?refcode=79aec8435127))
 * Your own FQDN domain name.
+
+[How To Setup your own Mail Server with anti-spam configuration in 60 minutes](https://skrilnetz.net)
