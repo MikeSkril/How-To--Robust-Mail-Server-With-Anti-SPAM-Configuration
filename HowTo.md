@@ -7,6 +7,7 @@ This tutorial will use **yourdomain.com** as domain name and **mail.yourdomain.c
 * Postfix v2.9.6 as SMTP server
 * Dovecot v2.0.19 as IMAP server
 * We will use Unix user accounts and tunnel the SASL authentication through TLS
+* Emails in transit (inbound/outbound) will be encrypted using TLS if supported by the foreign mail server
 * Postgrey v1.34 - to reject spam from the beginning
 ([more about postgrey]( http://postgrey.schweikert.ch/))
 * SPF (Sender Policy Framework) validating to reduce spam
